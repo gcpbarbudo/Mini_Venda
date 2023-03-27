@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/16 21:25:36.000.389,=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 21:29:09.000.752,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\ufrmPrincipal.pas</Transaction>
+    <Transaction>2023/01/16 21:29:09.000.752,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2023/01/16 21:31:40.000.958,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\MiniVenda.dproj</Transaction>
+    <Transaction>2023/01/16 21:52:52.000.501,=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit2.pas</Transaction>
+    <Transaction>2023/01/16 21:53:22.000.782,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit2.dfm=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\udm.dfm</Transaction>
+    <Transaction>2023/01/16 21:53:22.000.782,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit2.pas=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\udm.pas</Transaction>
+    <Transaction>2023/01/18 20:28:29.000.506,=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit3.pas</Transaction>
+    <Transaction>2023/01/18 20:29:01.000.822,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit3.dfm=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\ufrmBase.dfm</Transaction>
+    <Transaction>2023/01/18 20:29:01.000.822,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit3.pas=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\ufrmBase.pas</Transaction>
+    <Transaction>2023/01/18 20:52:32.000.809,=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit1.pas</Transaction>
+    <Transaction>2023/01/18 20:52:50.000.739,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit1.pas=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\ufrmBaseCrud.pas</Transaction>
+    <Transaction>2023/01/18 20:52:50.000.739,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit1.dfm=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\ufrmBaseCrud.dfm</Transaction>
+    <Transaction>2023/01/24 12:45:11.000.479,=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 12:45:50.000.775,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\udmPrinc.dfm=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit1.dfm</Transaction>
+    <Transaction>2023/01/24 12:45:50.000.775,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\udmPrinc.pas=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 12:47:05.000.358,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\udm.pas=</Transaction>
+    <Transaction>2023/01/25 20:07:11.000.965,=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit1.pas</Transaction>
+    <Transaction>2023/01/25 20:17:14.000.580,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\ufrmCadUsuario.dfm=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit1.dfm</Transaction>
+    <Transaction>2023/01/25 20:17:14.000.580,B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\ufrmCadUsuario.pas=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit1.pas</Transaction>
+    <Transaction>2023/01/25 20:38:04.000.815,=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit2.pas</Transaction>
+    <Transaction>2023/01/25 20:39:17.000.610,B:\Guilherme Barbudo\OneDrive\Documentos\ufrmCadUsuarioReal.dfm=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit2.dfm</Transaction>
+    <Transaction>2023/01/25 20:39:17.000.610,B:\Guilherme Barbudo\OneDrive\Documentos\ufrmCadUsuarioReal.pas=B:\Guilherme Barbudo\OneDrive\Documentos\Embarcadero\Studio\Projects\Mini Vendas\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
